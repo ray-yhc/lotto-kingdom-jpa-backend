@@ -1,0 +1,1 @@
+# lotto-kingdom-jpa-backend
